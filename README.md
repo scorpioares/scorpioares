@@ -10,6 +10,10 @@
 - 📃 Here is my list of published journals: [Google Scholar](https://scholar.google.co.jp/citations?hl=ja&view_op=list_works&gmla=AFix5MZ5YfZeW0xG1tGD9fI6IJ-Y-8Lyq986LvsEsuZbFvEhDhBZKYWR0_4BcQWScKK50eIj1fLT2f75XLo9Gso20AB4iqN4IPKi9hW4ELVMWkViXTSYUsmrFj7F3nsSqGbFOGw&user=NXqNqj4AAAAJ)
 - 📫 How to reach me: quantumrithm@gmail.com
 
+## Quote
+
+>It is probably this important fact along with other philosophical reasons that gives rise to conviction . . . that every definite mathematical problem must necessarily be susceptible to an exact settlement, either in the form of an actual answer to the question asked, or by the proof of the impossibility of its solution and therewith the necessary failure of all attempts. . . . This conviction . . . is a powerful incentive to the worker. We hear within us the perpetual call: There is the problem. Seek its solution. You can find it by pure reason, for in mathematics there is no ignorance.
+
 <!---
 scorpioares/scorpioares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
